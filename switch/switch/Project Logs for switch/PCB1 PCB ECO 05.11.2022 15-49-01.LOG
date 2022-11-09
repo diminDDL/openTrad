@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=BT1 Old Footprint=FP-S8421-45R-MFG New Footprint=BATHLD-001
+Change Component Comment : Designator=BT1 Old Comment=S8421-45R New Comment=BAT-HLD-001
+Change Managed Component Library Link : Designator=BT1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6DA270B1-0270-4183-9E18-208C7D235E83 New ItemGUID=E7C86092-35A7-4FCA-8719-3560D88AC2AD Old RevisionGUID=ECD5BC2E-9E59-440D-896B-9019C501D609 New RevisionGUID=7E1E8150-176F-4F44-B9B1-26A7BA5A377C
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "FP-S8421-45R-MFG"; UniqueID = "\DARKQUUG" ("\DARKQUUG")
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "rev1.0, Dec-2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Low Profile SM Battery Holder, 20mm Lithium Cell, 21.1 x 15.3 x 4.2 mm Body"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "BATHLD-001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "rev1.0, Dec-2007"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_nRF Pin=BT1-3
+Added Room: Name=Sheet1

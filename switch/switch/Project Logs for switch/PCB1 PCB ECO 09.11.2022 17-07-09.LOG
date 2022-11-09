@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1005X04L New Footprint=CAPC0603X28X15NL05T05
+Change Component Footprint: Designator=C25 Old Footprint=CAPC1005X04L New Footprint=CAPC0603X33X15NL03T05
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1005X04L New Footprint=CAPC0603X33X15NL03T05
+Change Component Footprint: Designator=R1 Old Footprint=FP-ERJ1GN-MFG New Footprint=RESC0603X26X15LL03T05
+Change Component Footprint: Designator=C3 Old Footprint=FP-GRM033-0_03-MFG New Footprint=CAPC0603X28X15NL05T05
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8428C6D8-26D7-490F-B52A-CB54FE175F7C New ItemGUID=B9D4F6B6-6EFE-4033-84C6-F1A3F311615A Old RevisionGUID=856E4CA3-EF47-4314-8856-FA20CE028F92 New RevisionGUID=87E9040C-2D8A-4E3D-9F9F-B68B1E6DD054
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=74C4BAA9-5734-471D-8CD8-3616FF31E007 New ItemGUID=7E6025AF-E614-4BF6-B07C-8BDA81F703B4 Old RevisionGUID=B8CBB7AB-BB34-4119-8FD8-F29A04C84408 New RevisionGUID=B5F7235E-7D87-4DBA-B994-2E008FBA9968
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=568BF575-75B1-4C8F-8DA1-3F3A1F7EA519 Old RevisionGUID= New RevisionGUID=AE9BE622-9F66-4526-8485-12D22F219800
+Change Managed Component Library Link : Designator=C25 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8F96C08D-C39D-42FA-8B4F-7157A20E6226 Old RevisionGUID= New RevisionGUID=A8F18799-59E1-4C0E-91A8-625CB91C069D
+Change Managed Component Library Link : Designator=C26 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=8F96C08D-C39D-42FA-8B4F-7157A20E6226 Old RevisionGUID= New RevisionGUID=A8F18799-59E1-4C0E-91A8-625CB91C069D
+Change component parameters: Designator = "C3" ("C3"); Footprint = "FP-GRM033-0_03-MFG"; UniqueID = "\JJGNIVZN" ("\JJGNIVZN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02013J0R8PBWTR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC1005X04L"; UniqueID = "\DCHOZFTU" ("\DCHOZFTU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02013J0R5PBSTR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAPC1005X04L"; UniqueID = "\GHCGVZJJ" ("\GHCGVZJJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02013A1R5CAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAPC1005X04L"; UniqueID = "\JJLDNKUX" ("\JJLDNKUX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "02013A1R5CAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-ERJ1GN-MFG"; UniqueID = "\WXPGSFEI" ("\WXPGSFEI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-1GE0R00C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=L1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-H23
+Added Net: Name=NetC3_2
+Added Room: Name=Sheet1
