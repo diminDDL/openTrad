@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=FP-LQP03TG_02-IPC_B New Footprint=FP-LQP03TG_02-IPC_B
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C Old ItemGUID=08B92D57-62D2-49D5-86D9-BF1981EC5327 New ItemGUID=24e6a65b-dfce-4f18-94cb-f77b5e0f109e Old RevisionGUID=0506A157-E90F-4E96-9C71-E9046D9A847A New RevisionGUID=ed990039-1488-4be9-afb0-3f967fe82ea9
+Change component parameters: Designator = "L1" ("L1"); Footprint = "FP-LQP03TG_02-IPC_B"; UniqueID = "\HZIEJRKD" ("\HZIEJRKD")
+Added Room: Name=Sheet1
