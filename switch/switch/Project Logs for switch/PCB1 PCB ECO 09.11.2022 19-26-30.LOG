@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetR5_2 Pin=SW1-A'
+Removed Pin From Net: NetName=BTN_A Pin=SW1-A
+Removed Pin From Net: NetName=GND Pin=SW1-B'
+Removed Pin From Net: NetName=NetR6_2 Pin=SW2-A'
+Removed Pin From Net: NetName=BTN_B Pin=SW2-A
+Removed Pin From Net: NetName=GND Pin=SW2-B'
+Removed Pin From Net: NetName=NetR7_2 Pin=SW3-A'
+Removed Pin From Net: NetName=BTN_P Pin=SW3-A
+Removed Pin From Net: NetName=GND Pin=SW3-B'
+Change Component Footprint: Designator=SW1 Old Footprint=FP-EVQ-Q2P03W-MFG New Footprint=431181015816
+Change Component Footprint: Designator=SW2 Old Footprint=FP-EVQ-Q2P03W-MFG New Footprint=431181015816
+Change Component Footprint: Designator=SW3 Old Footprint=FP-EVQ-Q2P03W-MFG New Footprint=431181015816
+Change Component Comment : Designator=SW1 Old Comment=EVQ-Q2P03W New Comment=431181015816
+Change Component Comment : Designator=SW2 Old Comment=EVQ-Q2P03W New Comment=431181015816
+Change Component Comment : Designator=SW3 Old Comment=EVQ-Q2P03W New Comment=431181015816
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=15F3D87B-DB81-42D5-A19B-D241EAFFC694 New ItemGUID=E80FB694-1082-4D68-97B4-7C1223166F13 Old RevisionGUID=358F043B-6114-41D5-BE20-76794FDB5BCF New RevisionGUID=6741201B-FB1C-4D60-B131-6B4DF022EF62
+Change Managed Component Library Link : Designator=SW2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=15F3D87B-DB81-42D5-A19B-D241EAFFC694 New ItemGUID=E80FB694-1082-4D68-97B4-7C1223166F13 Old RevisionGUID=358F043B-6114-41D5-BE20-76794FDB5BCF New RevisionGUID=6741201B-FB1C-4D60-B131-6B4DF022EF62
+Change Managed Component Library Link : Designator=SW3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=15F3D87B-DB81-42D5-A19B-D241EAFFC694 New ItemGUID=E80FB694-1082-4D68-97B4-7C1223166F13 Old RevisionGUID=358F043B-6114-41D5-BE20-76794FDB5BCF New RevisionGUID=6741201B-FB1C-4D60-B131-6B4DF022EF62
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-EVQ-Q2P03W-MFG"; UniqueID = "\WWQCBZYB" ("\WWQCBZYB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/431181015816.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "431181015816"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "431181015816"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "FP-EVQ-Q2P03W-MFG"; UniqueID = "\XJRFIAQZ" ("\XJRFIAQZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/431181015816.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "431181015816"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "431181015816"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "FP-EVQ-Q2P03W-MFG"; UniqueID = "\NUXKQQAU" ("\NUXKQQAU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/431181015816.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "431181015816"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "431181015816"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BTN_A Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetR5_2 Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-6
+Added Pin To Net: NetName=BTN_B Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetR6_2 Pin=SW2-3
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW2-5
+Added Pin To Net: NetName=GND Pin=SW2-6
+Added Pin To Net: NetName=BTN_P Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=NetR7_2 Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=GND Pin=SW3-5
+Added Pin To Net: NetName=GND Pin=SW3-6
+Added Room: Name=Sheet1
