@@ -1,0 +1,511 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=VCC_nRF Pin=J1-2
+Removed Pin From Net: NetName=LED Pin=J1-3
+Removed Pin From Net: NetName=BTN_P Pin=J1-4
+Removed Pin From Net: NetName=BTN_B Pin=J1-5
+Removed Pin From Net: NetName=BTN_A Pin=J1-6
+Removed Pin From Net: NetName=P0.05 Pin=J1-7
+Removed Pin From Net: NetName=P0.04 Pin=J1-8
+Removed Pin From Net: NetName=SCL Pin=J1-9
+Removed Pin From Net: NetName=SDA Pin=J1-10
+Removed Pin From Net: NetName=P1.01 Pin=J2-1
+Removed Pin From Net: NetName=P0.25 Pin=J2-2
+Removed Pin From Net: NetName=P0.24 Pin=J2-3
+Removed Pin From Net: NetName=P0.23 Pin=J2-4
+Removed Pin From Net: NetName=P0.22 Pin=J2-5
+Removed Pin From Net: NetName=P0.21 Pin=J2-6
+Removed Pin From Net: NetName=P0.20 Pin=J2-7
+Removed Pin From Net: NetName=P0.19 Pin=J2-8
+Removed Pin From Net: NetName=P0.17 Pin=J2-9
+Removed Pin From Net: NetName=P0.16 Pin=J2-10
+Removed Pin From Net: NetName=P0.30 Pin=J3-1
+Removed Pin From Net: NetName=P0.31 Pin=J3-2
+Removed Pin From Net: NetName=P1.11 Pin=J3-3
+Removed Pin From Net: NetName=P1.10 Pin=J3-4
+Removed Pin From Net: NetName=P1.07 Pin=J3-5
+Removed Pin From Net: NetName=P1.06 Pin=J3-6
+Removed Pin From Net: NetName=P1.05 Pin=J3-7
+Removed Pin From Net: NetName=P1.04 Pin=J3-8
+Removed Pin From Net: NetName=P1.03 Pin=J3-9
+Removed Pin From Net: NetName=P1.02 Pin=J3-10
+Removed Pin From Net: NetName=IMU_INT Pin=J4-1
+Removed Pin From Net: NetName=IMU_EN Pin=J4-2
+Removed Pin From Net: NetName=BME_EN Pin=J4-3
+Removed Pin From Net: NetName=P0.12 Pin=J4-4
+Removed Pin From Net: NetName=P0.11 Pin=J4-5
+Removed Pin From Net: NetName=P1.09 Pin=J4-6
+Removed Pin From Net: NetName=VBUS Pin=J4-7
+Removed Pin From Net: NetName=D- Pin=J4-8
+Removed Pin From Net: NetName=D+ Pin=J4-9
+Removed Pin From Net: NetName=GND Pin=J4-10
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=DCC Pin=J5-2
+Removed Pin From Net: NetName=P1.12 Pin=J5-3
+Removed Pin From Net: NetName=P1.13 Pin=J5-4
+Removed Pin From Net: NetName=P1.14 Pin=J5-5
+Removed Pin From Net: NetName=P1.15 Pin=J5-6
+Removed Pin From Net: NetName=P0.03 Pin=J5-7
+Removed Pin From Net: NetName=P0.02 Pin=J5-8
+Removed Pin From Net: NetName=P0.28 Pin=J5-9
+Removed Pin From Net: NetName=P0.29 Pin=J5-10
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Removed Member From Class: ClassName=Sheet1 Member=J3
+Removed Member From Class: ClassName=Sheet1 Member=J4
+Removed Member From Class: ClassName=Sheet1 Member=J5
+Added Component: Designator=TP1(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP18(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP19(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP20(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP21(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP22(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP23(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP24(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP25(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP26(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP27(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP28(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP29(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP30(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP31(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP32(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP33(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP34(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP35(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP36(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP37(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP38(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP39(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP40(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP41(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP42(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP43(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP44(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP45(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP46(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP47(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP48(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP49(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP50(TP06R)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BTN_A Pin=R5-2
+Added Pin To Net: NetName=BTN_B Pin=R6-2
+Added Pin To Net: NetName=BTN_P Pin=R7-2
+Added Pin To Net: NetName=BTN_A Pin=SW1-3
+Added Pin To Net: NetName=BTN_B Pin=SW2-3
+Added Pin To Net: NetName=BTN_P Pin=SW3-3
+Added Pin To Net: NetName=SDA Pin=TP1-1
+Added Pin To Net: NetName=SCL Pin=TP2-1
+Added Pin To Net: NetName=P0.04 Pin=TP3-1
+Added Pin To Net: NetName=P0.05 Pin=TP4-1
+Added Pin To Net: NetName=BTN_A Pin=TP5-1
+Added Pin To Net: NetName=BTN_B Pin=TP6-1
+Added Pin To Net: NetName=BTN_P Pin=TP7-1
+Added Pin To Net: NetName=LED Pin=TP8-1
+Added Pin To Net: NetName=VCC_nRF Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Pin To Net: NetName=P0.16 Pin=TP11-1
+Added Pin To Net: NetName=P0.17 Pin=TP12-1
+Added Pin To Net: NetName=P0.19 Pin=TP13-1
+Added Pin To Net: NetName=P0.20 Pin=TP14-1
+Added Pin To Net: NetName=P0.21 Pin=TP15-1
+Added Pin To Net: NetName=P0.22 Pin=TP16-1
+Added Pin To Net: NetName=P0.23 Pin=TP17-1
+Added Pin To Net: NetName=P0.24 Pin=TP18-1
+Added Pin To Net: NetName=P0.25 Pin=TP19-1
+Added Pin To Net: NetName=P1.01 Pin=TP20-1
+Added Pin To Net: NetName=P1.02 Pin=TP21-1
+Added Pin To Net: NetName=P1.03 Pin=TP22-1
+Added Pin To Net: NetName=P1.04 Pin=TP23-1
+Added Pin To Net: NetName=P1.05 Pin=TP24-1
+Added Pin To Net: NetName=P1.06 Pin=TP25-1
+Added Pin To Net: NetName=P1.07 Pin=TP26-1
+Added Pin To Net: NetName=P1.10 Pin=TP27-1
+Added Pin To Net: NetName=P1.11 Pin=TP28-1
+Added Pin To Net: NetName=P0.31 Pin=TP29-1
+Added Pin To Net: NetName=P0.30 Pin=TP30-1
+Added Pin To Net: NetName=GND Pin=TP31-1
+Added Pin To Net: NetName=D+ Pin=TP32-1
+Added Pin To Net: NetName=D- Pin=TP33-1
+Added Pin To Net: NetName=VBUS Pin=TP34-1
+Added Pin To Net: NetName=P1.09 Pin=TP35-1
+Added Pin To Net: NetName=P0.11 Pin=TP36-1
+Added Pin To Net: NetName=P0.12 Pin=TP37-1
+Added Pin To Net: NetName=BME_EN Pin=TP38-1
+Added Pin To Net: NetName=IMU_EN Pin=TP39-1
+Added Pin To Net: NetName=IMU_INT Pin=TP40-1
+Added Pin To Net: NetName=P0.29 Pin=TP41-1
+Added Pin To Net: NetName=P0.28 Pin=TP42-1
+Added Pin To Net: NetName=P0.02 Pin=TP43-1
+Added Pin To Net: NetName=P0.03 Pin=TP44-1
+Added Pin To Net: NetName=P1.15 Pin=TP45-1
+Added Pin To Net: NetName=P1.14 Pin=TP46-1
+Added Pin To Net: NetName=P1.13 Pin=TP47-1
+Added Pin To Net: NetName=P1.12 Pin=TP48-1
+Added Pin To Net: NetName=DCC Pin=TP49-1
+Added Pin To Net: NetName=GND Pin=TP50-1
+Added Member To Class: ClassName=Sheet1 Member=Component TP1 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP3 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP5 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP6 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP7 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP8 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP9 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP10 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP11 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP12 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP13 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP14 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP15 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP16 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP17 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP18 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP19 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP20 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP21 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP22 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP23 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP24 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP25 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP26 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP27 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP28 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP29 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP30 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP31 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP32 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP33 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP34 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP35 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP36 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP37 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP38 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP39 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP40 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP41 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP42 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP43 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP44 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP45 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP46 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP47 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP48 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP49 TPAD6R
+Added Member To Class: ClassName=Sheet1 Member=Component TP50 TPAD6R
