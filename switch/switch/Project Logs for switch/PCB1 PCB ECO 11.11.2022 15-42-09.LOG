@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IMU_EN Pin=U1-AC9
+Removed Pin From Net: NetName=I2C_PULL Pin=U1-AC11
+Removed Member From Class: ClassName=Sheet1 Member=TP12
+Removed Member From Class: ClassName=Sheet1 Member=TP14
+Added Pin To Net: NetName=NetP1_6 Pin=U1-AC15
+Added Pin To Net: NetName=NetP1_6 Pin=U1-AC17
+Added Pin To Net: NetName=NetP1_6 Pin=U1-AC19
+Added Pin To Net: NetName=NetP1_6 Pin=U1-AC21
+Added Pin To Net: NetName=IMU_EN Pin=U1-AD12
+Added Pin To Net: NetName=I2C_PULL Pin=U1-AD16

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BTN_A Pin=U1-L1
+Removed Pin From Net: NetName=BTN_B Pin=U1-M2
+Removed Pin From Net: NetName=BTN_P Pin=U1-N1
+Removed Pin From Net: NetName=LED Pin=U1-P2
+Removed Member From Class: ClassName=Sheet1 Member=TP41
+Removed Member From Class: ClassName=Sheet1 Member=TP43
+Removed Member From Class: ClassName=Sheet1 Member=TP45
+Removed Member From Class: ClassName=Sheet1 Member=TP47
+Added Pin To Net: NetName=LED Pin=U1-A10
+Added Pin To Net: NetName=BTN_P Pin=U1-A12
+Added Pin To Net: NetName=BTN_B Pin=U1-A14
+Added Pin To Net: NetName=BTN_A Pin=U1-A16

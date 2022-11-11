@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SDA Pin=U1-G1
+Removed Pin From Net: NetName=SCL Pin=U1-H2
+Removed Member From Class: ClassName=Sheet1 Member=TP11
+Removed Member From Class: ClassName=Sheet1 Member=TP13
+Removed Member From Class: ClassName=Sheet1 Member=TP15
+Removed Member From Class: ClassName=Sheet1 Member=TP16
+Removed Member From Class: ClassName=Sheet1 Member=TP17
+Removed Member From Class: ClassName=Sheet1 Member=TP19
+Removed Member From Class: ClassName=Sheet1 Member=TP36
+Added Pin To Net: NetName=SCL Pin=U1-AD18
+Added Pin To Net: NetName=SDA Pin=U1-AD20
+Added Pin To Net: NetName=P0.26 Pin=TP18-1
+Added Pin To Net: NetName=P0.26 Pin=U1-G1
+Added Net: Name=P0.26
