@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VBUS Pin=U1-Y2
+Added Component: Designator=SB1(CAPC1005X06N)
+Added Component: Designator=SB2(CAPC1005X06N)
+Added Pin To Net: NetName=VCC_nRF Pin=SB1-1
+Added Pin To Net: NetName=VCC_nRF Pin=SB1-2
+Added Pin To Net: NetName=VBUS Pin=SB2-1
+Added Pin To Net: NetName=VCC_nRF Pin=SB2-2
+Added Pin To Net: NetName=VCC_nRF Pin=U1-Y2
+Added Member To Class: ClassName=Sheet1 Member=Component SB1 Solder Bridge not connected
+Added Member To Class: ClassName=Sheet1 Member=Component SB2 Solder Bridge not connected
