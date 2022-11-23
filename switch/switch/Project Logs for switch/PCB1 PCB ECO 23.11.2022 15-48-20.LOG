@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=SB1 Old Footprint=CAPC1005X06N New Footprint=CAPC1005X06N
+Change Component Kind : Designator=SB1 Old Kind=Standard New Kind=Net Tie
+Change Managed Component Library Link : Designator=SB1 Old VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C New VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C Old ItemGUID=4f6eee30-7c86-4d43-a696-19089d1864f9 New ItemGUID=4f6eee30-7c86-4d43-a696-19089d1864f9 Old RevisionGUID=6b06bc50-726a-4ceb-b7c0-8a05b9e4375f New RevisionGUID=7ed0db76-a65e-4f34-89e1-376ab3ca0571

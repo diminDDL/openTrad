@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_nRF Pin=SB1-1
+Removed Pin From Net: NetName=VCC_nRF Pin=SB2-2
+Removed Pin From Net: NetName=VCC_nRF Pin=U1-Y2
+Change Component Footprint: Designator=SB1 Old Footprint=CAPC1005X06N New Footprint=CAPC1005X06N
+Change Component Comment : Designator=SB1 Old Comment=Solder Bridge not connected New Comment=Copy of Solder Bridge connected
+Change Managed Component Library Link : Designator=SB1 Old VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C New VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C Old ItemGUID=b784e61f-0c69-433b-8213-604490f97037 New ItemGUID=4f6eee30-7c86-4d43-a696-19089d1864f9 Old RevisionGUID=8818551c-baab-4b5e-83ff-d47d1d7d295c New RevisionGUID=6b06bc50-726a-4ceb-b7c0-8a05b9e4375f
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB2-2
+Added Pin To Net: NetName=NetSB1_1 Pin=U1-Y2
+Added Net: Name=NetSB1_1

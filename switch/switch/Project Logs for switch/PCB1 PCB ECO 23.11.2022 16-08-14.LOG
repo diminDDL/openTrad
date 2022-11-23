@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=SB2 Old DesignItemId=CMP-001-0000-2 New DesignItemId=CMP-001-0000-3
+Change Component DesignItemId : Designator=SB1 Old DesignItemId=CMP-001-0001-4 New DesignItemId=CMP-001-0001-5
+Change Component Footprint: Designator=SB2 Old Footprint=CAPC1005X06N New Footprint=CAPC1005X06N
+Change Component Footprint: Designator=SB1 Old Footprint=CAPC1005X06N New Footprint=CAPC1005X06N
+Change Managed Component Library Link : Designator=SB1 Old VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C New VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C Old ItemGUID=4f6eee30-7c86-4d43-a696-19089d1864f9 New ItemGUID=4f6eee30-7c86-4d43-a696-19089d1864f9 Old RevisionGUID=7ed0db76-a65e-4f34-89e1-376ab3ca0571 New RevisionGUID=bdeaf6be-6dbd-4727-abec-df9940219418
+Change Managed Component Library Link : Designator=SB2 Old VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C New VaultGUID=1CCA625F-700B-47A8-AD06-CD1A0532B68C Old ItemGUID=b784e61f-0c69-433b-8213-604490f97037 New ItemGUID=b784e61f-0c69-433b-8213-604490f97037 Old RevisionGUID=8818551c-baab-4b5e-83ff-d47d1d7d295c New RevisionGUID=d3bd2ef8-3d04-4a7c-b0d3-56c6a577653e
